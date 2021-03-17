@@ -1,0 +1,88 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.uten2c",
+    "module": "cmdlib",
+    "version": "1.16.5+.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.7",
+      "buildId": "rkqg2g6vjfht7ahyhtdzlejzz4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "cmdlib-1.16.5+.1.jar",
+          "url": "cmdlib-1.16.5+.1.jar",
+          "size": 22458,
+          "sha512": "33a5bc2624a6a0d333f92207730996bfc28423ef0d04f301500d666ea133e7eeb9f3cae8b6176079565f4b006042c464397f5a3aff7627fd82b713a6b6c287d5",
+          "sha256": "d0ea13f86733d7317fec42a827d71be262258ef6d8571264b212dd927b71a9e4",
+          "sha1": "96002ee28cb552541140beb65507f3806532752e",
+          "md5": "900c38813ff62cc5494af3449234a475"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.4.31"
+          }
+        },
+        {
+          "group": "com.destroystokyo.paper",
+          "module": "paper-api",
+          "version": {
+            "requires": "1.16.5-R0.1-SNAPSHOT"
+          }
+        },
+        {
+          "group": "com.destroystokyo.paper",
+          "module": "paper",
+          "version": {
+            "requires": "1.16.5-R0.1-SNAPSHOT"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "cmdlib-1.16.5+.1.jar",
+          "url": "cmdlib-1.16.5+.1.jar",
+          "size": 22458,
+          "sha512": "33a5bc2624a6a0d333f92207730996bfc28423ef0d04f301500d666ea133e7eeb9f3cae8b6176079565f4b006042c464397f5a3aff7627fd82b713a6b6c287d5",
+          "sha256": "d0ea13f86733d7317fec42a827d71be262258ef6d8571264b212dd927b71a9e4",
+          "sha1": "96002ee28cb552541140beb65507f3806532752e",
+          "md5": "900c38813ff62cc5494af3449234a475"
+        }
+      ]
+    }
+  ]
+}
