@@ -3,7 +3,7 @@
   "component": {
     "group": "dev.uten2c",
     "module": "cmdlib",
-    "version": "1.16.5+.1",
+    "version": "1.16.5+1",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.7",
-      "buildId": "rkqg2g6vjfht7ahyhtdzlejzz4"
+      "buildId": "i5n5yxkdovexhon5fo6cxkrlja"
     }
   },
   "variants": [
@@ -28,13 +28,13 @@
       },
       "files": [
         {
-          "name": "cmdlib-1.16.5+.1.jar",
-          "url": "cmdlib-1.16.5+.1.jar",
+          "name": "cmdlib-1.16.5+1.jar",
+          "url": "cmdlib-1.16.5+1.jar",
           "size": 22458,
-          "sha512": "33a5bc2624a6a0d333f92207730996bfc28423ef0d04f301500d666ea133e7eeb9f3cae8b6176079565f4b006042c464397f5a3aff7627fd82b713a6b6c287d5",
-          "sha256": "d0ea13f86733d7317fec42a827d71be262258ef6d8571264b212dd927b71a9e4",
-          "sha1": "96002ee28cb552541140beb65507f3806532752e",
-          "md5": "900c38813ff62cc5494af3449234a475"
+          "sha512": "53e1cc4451454a7a3c83f598e5cba2d605b014e42ca54cf736433973eb8ffae93e42623887daa2cc396f660e0bcda4df979685cc66424c1cc217d89658ddc3ab",
+          "sha256": "5cdd108e3c3066f17dd9e02363f122ab900a91810d1d576a3294b1db0d9a2495",
+          "sha1": "e8bf6499261c87978f6ac96a0564bdaa34e21e1b",
+          "md5": "61426712fe81c534bbc2ccce18223aac"
         }
       ]
     },
@@ -74,13 +74,13 @@
       ],
       "files": [
         {
-          "name": "cmdlib-1.16.5+.1.jar",
-          "url": "cmdlib-1.16.5+.1.jar",
+          "name": "cmdlib-1.16.5+1.jar",
+          "url": "cmdlib-1.16.5+1.jar",
           "size": 22458,
-          "sha512": "33a5bc2624a6a0d333f92207730996bfc28423ef0d04f301500d666ea133e7eeb9f3cae8b6176079565f4b006042c464397f5a3aff7627fd82b713a6b6c287d5",
-          "sha256": "d0ea13f86733d7317fec42a827d71be262258ef6d8571264b212dd927b71a9e4",
-          "sha1": "96002ee28cb552541140beb65507f3806532752e",
-          "md5": "900c38813ff62cc5494af3449234a475"
+          "sha512": "53e1cc4451454a7a3c83f598e5cba2d605b014e42ca54cf736433973eb8ffae93e42623887daa2cc396f660e0bcda4df979685cc66424c1cc217d89658ddc3ab",
+          "sha256": "5cdd108e3c3066f17dd9e02363f122ab900a91810d1d576a3294b1db0d9a2495",
+          "sha1": "e8bf6499261c87978f6ac96a0564bdaa34e21e1b",
+          "md5": "61426712fe81c534bbc2ccce18223aac"
         }
       ]
     }
