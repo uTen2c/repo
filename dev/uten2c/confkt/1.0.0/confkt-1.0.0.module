@@ -1,0 +1,88 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.uten2c",
+    "module": "confkt",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.7",
+      "buildId": "ikagmgqxsvdnrmofkxho2xpzkq"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "confkt-1.0.0.jar",
+          "url": "confkt-1.0.0.jar",
+          "size": 8708,
+          "sha512": "cdadd17e9becdf390e8aff4d893169f41c56dfa121a26703eca9ec847275db3762797cecce050751b370bccf99b6a7a5efcbbe526709d3d3ac9f2b1f474fbe90",
+          "sha256": "e1a41d4bfa207578bdcc40c18090124beba1a38d2b01ef70026ac22978c0cbf9",
+          "sha1": "34486cc4c8dad30bc8a4e03f0f16c6dce9ab6b83",
+          "md5": "454475f71bfb974f351757bed4dbe1e5"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.4.31"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-reflect",
+          "version": {
+            "requires": "1.4.31"
+          }
+        },
+        {
+          "group": "org.yaml",
+          "module": "snakeyaml",
+          "version": {
+            "requires": "1.26"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "confkt-1.0.0.jar",
+          "url": "confkt-1.0.0.jar",
+          "size": 8708,
+          "sha512": "cdadd17e9becdf390e8aff4d893169f41c56dfa121a26703eca9ec847275db3762797cecce050751b370bccf99b6a7a5efcbbe526709d3d3ac9f2b1f474fbe90",
+          "sha256": "e1a41d4bfa207578bdcc40c18090124beba1a38d2b01ef70026ac22978c0cbf9",
+          "sha1": "34486cc4c8dad30bc8a4e03f0f16c6dce9ab6b83",
+          "md5": "454475f71bfb974f351757bed4dbe1e5"
+        }
+      ]
+    }
+  ]
+}
