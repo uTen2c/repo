@@ -30,10 +30,10 @@
           "name": "strobo-58.jar",
           "url": "strobo-58.jar",
           "size": 463865,
-          "sha512": "b6adcc305fe789b45ba5c3a0d2407a7134530330327661098ff4aa93cc442dd5634b6278e7a2bf00a67c8959d8b48b36747ecb9aa12810d934f0abefe5eae250",
-          "sha256": "f866f260526a3c2344023e80a693c41d2fb8939dbc7a88d7eb6ce9f398edfdfe",
-          "sha1": "ca5e5778bd4a9d74d19601e36233d9ab88b70161",
-          "md5": "24519fb5b1f0b80f259b859c315bb966"
+          "sha512": "9838324517536e1ee112e78c86cc44b2e2cd5f1a19b28771b992c0eebd783e6bc6ba0e8cd3cf8225074367fe6fec306a787a6f57a8d04d3c67464e1735197e2d",
+          "sha256": "28138e9b1673560b1f43b8cd730de50d77f71d05fd169cf813a6e23a31287eb3",
+          "sha1": "ceef25daf0e5cfddfc97db29595150a81f9a494a",
+          "md5": "2279699f166bdd01260ea4998883f9aa"
         }
       ]
     },
@@ -240,10 +240,10 @@
           "name": "strobo-58.jar",
           "url": "strobo-58.jar",
           "size": 463865,
-          "sha512": "b6adcc305fe789b45ba5c3a0d2407a7134530330327661098ff4aa93cc442dd5634b6278e7a2bf00a67c8959d8b48b36747ecb9aa12810d934f0abefe5eae250",
-          "sha256": "f866f260526a3c2344023e80a693c41d2fb8939dbc7a88d7eb6ce9f398edfdfe",
-          "sha1": "ca5e5778bd4a9d74d19601e36233d9ab88b70161",
-          "md5": "24519fb5b1f0b80f259b859c315bb966"
+          "sha512": "9838324517536e1ee112e78c86cc44b2e2cd5f1a19b28771b992c0eebd783e6bc6ba0e8cd3cf8225074367fe6fec306a787a6f57a8d04d3c67464e1735197e2d",
+          "sha256": "28138e9b1673560b1f43b8cd730de50d77f71d05fd169cf813a6e23a31287eb3",
+          "sha1": "ceef25daf0e5cfddfc97db29595150a81f9a494a",
+          "md5": "2279699f166bdd01260ea4998883f9aa"
         }
       ]
     },
@@ -254,7 +254,18 @@
         "org.gradle.dependency.bundling": "external",
         "org.gradle.docstype": "sources",
         "org.gradle.usage": "java-runtime"
-      }
+      },
+      "files": [
+        {
+          "name": "strobo-58-sources.jar",
+          "url": "strobo-58-sources.jar",
+          "size": 65241,
+          "sha512": "c6273066c81e08ae0f4430f4501d238c522e02b0c63dca0dc1dedfbfdefc364d756aff908fda4c175c0116c99d560520f787cf555a0b439fa50fdd12e8813f73",
+          "sha256": "ba024f2909e2f573b7c8a3c0acc6e6201a37087fe7d09365d3cf80cafff07db2",
+          "sha1": "5e850060b79838b4466e632e7ed3c12b2f1bb573",
+          "md5": "363af6df5ab5567d4cccc5b3c6f02e17"
+        }
+      ]
     }
   ]
 }
