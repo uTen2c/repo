@@ -1,0 +1,76 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.uten2c",
+    "module": "compose-extra-css",
+    "version": "0.1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.3.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "metadataApiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.platform.type": "common"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-js",
+          "version": {
+            "requires": "1.6.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "compose-extra-css-metadata-0.1.0.jar",
+          "url": "compose-extra-css-0.1.0.jar",
+          "size": 261,
+          "sha512": "ad8ede92091d6add9c986b77ff26f38963afe4061270706d14c3b14a805aa4eed25465957ac3ab68995b495d4b4b9ab8c5b78a7cbcdce82a8b9931f6ee629385",
+          "sha256": "e15e4b97ba5e04ce6a9b8a802273f300ad289b8ddee150633f643d11ef0f18f5",
+          "sha1": "83c0e31163ce59918d230e23cffadf20603619b1",
+          "md5": "01a2e3b05a4c56ba52de263f636fcd0d"
+        }
+      ]
+    },
+    {
+      "name": "jsApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.js.compiler": "ir",
+        "org.jetbrains.kotlin.platform.type": "js"
+      },
+      "available-at": {
+        "url": "../../compose-extra-css-js/0.1.0/compose-extra-css-js-0.1.0.module",
+        "group": "dev.uten2c",
+        "module": "compose-extra-css-js",
+        "version": "0.1.0"
+      }
+    },
+    {
+      "name": "jsRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.js.compiler": "ir",
+        "org.jetbrains.kotlin.platform.type": "js"
+      },
+      "available-at": {
+        "url": "../../compose-extra-css-js/0.1.0/compose-extra-css-js-0.1.0.module",
+        "group": "dev.uten2c",
+        "module": "compose-extra-css-js",
+        "version": "0.1.0"
+      }
+    }
+  ]
+}

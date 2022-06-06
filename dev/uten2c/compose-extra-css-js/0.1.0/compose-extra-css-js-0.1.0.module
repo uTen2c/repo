@@ -1,0 +1,105 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../compose-extra-css/0.1.0/compose-extra-css-0.1.0.module",
+    "group": "dev.uten2c",
+    "module": "compose-extra-css",
+    "version": "0.1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.3.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "jsApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.js.compiler": "ir",
+        "org.jetbrains.kotlin.platform.type": "js"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-js",
+          "version": {
+            "requires": "1.6.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.web",
+          "module": "web-core",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.runtime",
+          "module": "runtime",
+          "version": {
+            "requires": "1.1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "compose-extra-css-js-0.1.0.klib",
+          "url": "compose-extra-css-js-0.1.0.klib",
+          "size": 15907,
+          "sha512": "fc6f93e46bf61559b2153e827317a7ff25510bcae00b0d2ceb082e1beccaea42742ffccc91ba7c3bab7bcab388c575b1e34a8f5e9faa574a223fa1aaf50ad29f",
+          "sha256": "4f7d4ef5c586435b6de924367067a3d8a29a2ca8c5b4bbc67757eca5f2b02796",
+          "sha1": "3608d4d23d5d1bb7dcab4be9db01060281b9d1c0",
+          "md5": "50f567a760f35a174bfbeda388f97f80"
+        }
+      ]
+    },
+    {
+      "name": "jsRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.js.compiler": "ir",
+        "org.jetbrains.kotlin.platform.type": "js"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-js",
+          "version": {
+            "requires": "1.6.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.web",
+          "module": "web-core",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.runtime",
+          "module": "runtime",
+          "version": {
+            "requires": "1.1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "compose-extra-css-js-0.1.0.klib",
+          "url": "compose-extra-css-js-0.1.0.klib",
+          "size": 15907,
+          "sha512": "fc6f93e46bf61559b2153e827317a7ff25510bcae00b0d2ceb082e1beccaea42742ffccc91ba7c3bab7bcab388c575b1e34a8f5e9faa574a223fa1aaf50ad29f",
+          "sha256": "4f7d4ef5c586435b6de924367067a3d8a29a2ca8c5b4bbc67757eca5f2b02796",
+          "sha1": "3608d4d23d5d1bb7dcab4be9db01060281b9d1c0",
+          "md5": "50f567a760f35a174bfbeda388f97f80"
+        }
+      ]
+    }
+  ]
+}
