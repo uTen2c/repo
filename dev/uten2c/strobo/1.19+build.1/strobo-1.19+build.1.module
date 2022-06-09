@@ -30,10 +30,10 @@
           "name": "strobo-1.19+build.1.jar",
           "url": "strobo-1.19+build.1.jar",
           "size": 518597,
-          "sha512": "02dd42688263812af9a1bbfe1c2dec1656654e206e21991d787751cc3c307d7f0533c9c3a469a519f12acec8aa19865e67d9c4241a3fdfc9d70a2184da1ead0f",
-          "sha256": "87972ddb827cb2ba72ed878ed236775c277fe30ae6a7408fe46ee25b86070133",
-          "sha1": "477c4b8aea01b25364a52907225cca922690ba96",
-          "md5": "ce2970560fd14e64839b4fea5553cb06"
+          "sha512": "1f6ffa2c8278e9ed30627c30ff58db06d1e8cb73361b9f95cedf110c77e9e8eef1eb4080335e79cb6b28cd10c6098c556630c4756268cc139c583c8ad358b932",
+          "sha256": "9c0d1b04e950b82f0626b4eae0d19b89ab89dbed28331f1e2c97b823362993eb",
+          "sha1": "787a723380354cf40267f3ada7f759d0e3bfef23",
+          "md5": "a564e9c31df3793dac8eedc8abe74129"
         }
       ]
     },
@@ -240,10 +240,10 @@
           "name": "strobo-1.19+build.1.jar",
           "url": "strobo-1.19+build.1.jar",
           "size": 518597,
-          "sha512": "02dd42688263812af9a1bbfe1c2dec1656654e206e21991d787751cc3c307d7f0533c9c3a469a519f12acec8aa19865e67d9c4241a3fdfc9d70a2184da1ead0f",
-          "sha256": "87972ddb827cb2ba72ed878ed236775c277fe30ae6a7408fe46ee25b86070133",
-          "sha1": "477c4b8aea01b25364a52907225cca922690ba96",
-          "md5": "ce2970560fd14e64839b4fea5553cb06"
+          "sha512": "1f6ffa2c8278e9ed30627c30ff58db06d1e8cb73361b9f95cedf110c77e9e8eef1eb4080335e79cb6b28cd10c6098c556630c4756268cc139c583c8ad358b932",
+          "sha256": "9c0d1b04e950b82f0626b4eae0d19b89ab89dbed28331f1e2c97b823362993eb",
+          "sha1": "787a723380354cf40267f3ada7f759d0e3bfef23",
+          "md5": "a564e9c31df3793dac8eedc8abe74129"
         }
       ]
     },
@@ -260,10 +260,10 @@
           "name": "strobo-1.19+build.1-sources.jar",
           "url": "strobo-1.19+build.1-sources.jar",
           "size": 73170,
-          "sha512": "7fca6faeacc9556b2ed12655424857ca44fbae36b5ea5c77b0939110a517809db5e390923407b24396191514b1fbed8c7ad0953d70bf77dbb72e5a8ffba42960",
-          "sha256": "36ee33246a9bc5b8038a58cb7d77b100b18e4613e2b7454d00c71a7cabcdc9bd",
-          "sha1": "36433a92a35a5357f1ecdc69778647df64b8d829",
-          "md5": "f6358481f755a004cbe66369824f205c"
+          "sha512": "10a162188c798ba58f342d37f0273a5310157d532eca121d8827f9f8e85bf9fd2477aeb11ff24a392f0a63547ee4aef86ee6c4feea341605eafa07ad5cf00a5b",
+          "sha256": "8dbbaa92ce1a65ecb50604e1d2d4a94423061ece03854033c5a86504119f1905",
+          "sha1": "99c3dda1fb2667ac0efaf2750ec803075609c470",
+          "md5": "e3f20fd4c967d6773c7ffea846c08ef3"
         }
       ]
     }
