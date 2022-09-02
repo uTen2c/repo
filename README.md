@@ -1,5 +1,10 @@
 # uTen2c's Maven Repository
 
+```kotlin
+repositories {
+    maven("https://maven.uten2c.dev")
+}
+```
 
 | Artifact          | LatestVersion                                                |
 | ----------------- |  ----------------------------------------------------------- |
