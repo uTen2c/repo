@@ -3,13 +3,14 @@
   <groupId>dev.uten2c</groupId>
   <artifactId>flash</artifactId>
   <versioning>
-    <latest>1.19.2+build.3</latest>
-    <release>1.19.2+build.3</release>
+    <latest>1.19.2+build.4</latest>
+    <release>1.19.2+build.4</release>
     <versions>
       <version>1.19.2+build.1</version>
       <version>1.19.2+build.2</version>
       <version>1.19.2+build.3</version>
+      <version>1.19.2+build.4</version>
     </versions>
-    <lastUpdated>20220906180916</lastUpdated>
+    <lastUpdated>20220907040430</lastUpdated>
   </versioning>
 </metadata>
