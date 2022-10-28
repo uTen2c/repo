@@ -3,8 +3,8 @@
   <groupId>dev.uten2c</groupId>
   <artifactId>strobo</artifactId>
   <versioning>
-    <latest>1.19.2+build.4</latest>
-    <release>1.19.2+build.4</release>
+    <latest>1.19.2+build.5</latest>
+    <release>1.19.2+build.5</release>
     <versions>
       <version>54</version>
       <version>55</version>
@@ -33,7 +33,8 @@
       <version>1.19.2+build.2</version>
       <version>1.19.2+build.3</version>
       <version>1.19.2+build.4</version>
+      <version>1.19.2+build.5</version>
     </versions>
-    <lastUpdated>20220902154341</lastUpdated>
+    <lastUpdated>20221028210833</lastUpdated>
   </versioning>
 </metadata>
