@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>net.minestom</groupId>
+  <artifactId>minestom-data</artifactId>
+  <version>1.19.4-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20230315.123439</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20230315123439</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.19.4-20230315.123439-1</value>
+        <updated>20230315123439</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.19.4-20230315.123439-1</value>
+        <updated>20230315123439</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
